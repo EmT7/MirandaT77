@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MirandaT77
 - 👀 I’m interested in coding and computer science
-- 🌱 I’m currently learning very basic HTML, CSS and JS in a coding Bootcamp through the University of Oregon
+- 🌱 I’m currently learning HTML, CSS and JS in a coding Bootcamp through the University of Oregon
 - 💞️ I’m looking to collaborate on ...hmmmm 
 - 📫 How to reach me; ranileah7@gmail.com
 
