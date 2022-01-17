@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MirandaT77 
 - 👀 I’m interested in coding and computer science
-- 🌱 I’m currently enrolled in a Full-Stack web development Bootcamp through the University of Oregon
-- 💞️ I’m looking to collaborate on ...you namme it, I'm ready!
+- 🌱 I’ve attended University of Oregon for full-stack web development and used many online courses to supplement my learning.
+- 💞️ I’m looking to collaborate on ...you name it, I'm ready!
 - 📫 How to reach me; ranileah7@gmail.com
 
 <!---
